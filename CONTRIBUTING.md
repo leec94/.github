@@ -1,6 +1,6 @@
 # Contribution Guideline
 
-We're so glad that you're thinking about contributing to this document. We welcome your contributions!
+We're so glad that you're thinking about contributing to this project. We welcome your contributions!
 
 Here are some guidelines and instructions for contributing to our projects. Please go through them before making a contribution.
 
