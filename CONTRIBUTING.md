@@ -1,22 +1,16 @@
-# Open-Horizon Contribution Guideline
+# Contribution Guideline
 
-We're so glad that you're thinking about contributing to Open-horizon-services. We welcome your contributions!
+We're so glad that you're thinking about contributing to this document. We welcome your contributions!
 
 Here are some guidelines and instructions for contributing to our projects. Please go through them before making a contribution.
 
 ## Code of Conduct
 
-Open-horizon-services governs its participants according to the Contributor [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/). As a contributor, you agree to uphold this code. 
+This project governs its participants according to the Contributor [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/). As a contributor, you agree to uphold this code. 
 
 ## FAQ and General Questions
 
-Before asking any questions, please have a look at our [Wiki](https://wiki.lfedge.org/display/OH/Project+Contributions). 
-
 If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
-
-You can also join open-horizon chat channel on element and then ask your question(s) in the relevant channel of our [Element workspace](https://chat.lfx.linuxfoundation.org/#/welcome).
-
-You can also checkout our [documentation website](https://open-horizon.github.io/) for better understanding of open-horizon projects.
 
 ## How to Contribute Code?
 
